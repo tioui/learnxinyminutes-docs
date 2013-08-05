@@ -24,7 +24,7 @@ Eiffel is an object-oriented programming language designed by Bertrand Meyer. Th
 - Simple Concurrent Object-Oriented Programming (SCOOP) facilitates creation of multiple, concurrently active execution vehicles at a level of abstraction above the specific details of these vehicles (e.g. multiple threads without specific mutex management).
 
 ```eiffel
-note
+<blue>note</blue>
 	description : "project application root class"
 	date        : "$Date$"
 	revision    : "$Revision$"
